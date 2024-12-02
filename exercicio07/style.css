@@ -1,0 +1,29 @@
+p {
+    color: red;
+}
+
+div p {
+    color: blue; 
+}
+
+.segunda p {
+    color: rgb(51, 177, 13);
+}
+
+.primeira > p {
+    color: rgb(87, 13, 87);
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.637);
+    font-size: large;
+    background-color: rgb(99, 160, 212);
+    padding: 10px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.658);
+    max-width: 700px;
+}
+
+.underline {
+    text-decoration: underline;
+}
